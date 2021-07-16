@@ -2,9 +2,7 @@
 
 ## The exercise
 
-This is a DevOps exercise aimed at taking a basic HTML application and building an Nginx Dockerfile to contain it. 
-You will then create a BitBucket Pipeline yaml file to build your image. 
-Finally, you must create Kubernetes manifest file(s) to release your container to a Kubernetes instance.
+This is a DevOps exercise aimed at taking a basic HTML application and building an Nginx Dockerfile to contain it. You must then create Kubernetes manifest file(s) to release your container to a Kubernetes instance.
 
 You will need a BitBucket or GitHub account to push your code to.
 
